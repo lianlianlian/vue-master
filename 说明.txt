@@ -1,0 +1,8 @@
+ÒÆ¶¯¶Ë
+1.vue
+2.vuex
+3.vue-router
+4.vux
+5.axios
+6.qs
+7.js-md5
